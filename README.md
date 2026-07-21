@@ -1,4 +1,4 @@
-# 🩺 MedGuide — AI Health Companion
+**# 🩺 MedGuide — AI Health Companion
 
 **MedGuide** is an intelligent AI-powered application that interprets blood and lab test reports, generates structured summaries, and enables contextual chat about health results.  
 It combines **multi-agent reasoning**, **vector-based retrieval (LanceDB)**, and **LLMs (OpenAI GPT + Cohere Reranker)** to deliver factual, explainable, and user-friendly insights.
@@ -203,3 +203,4 @@ If you’d like to contribute, please fork the repository and create a PR.
 👨‍💻 **Author:** [Sahil Aggarwal](https://www.linkedin.com/in/sahil-codes/)  
 📂 **GitHub:** [Sahil0015](https://github.com/Sahil0015)  
 ✉️ **Email:** sahilaggarwal1532003@gmail.com
+**
